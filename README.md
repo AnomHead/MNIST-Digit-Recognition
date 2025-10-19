@@ -53,10 +53,11 @@ The model is a simple sequential network with the following layers:
 * **Hidden Layer 2:** Dense layer with 15 neurons and **ReLU** activation.
 * **Output Layer:** Dense layer with 10 neurons (one for each digit) and **Softmax** activation.
 
-  
-# Attributions
+-------------------------------------------------------------------------------------------------------------------------------------
 
-Digit Recognition Pixel Values Dataset - by Wasiq Ali on Kaggle 
+## Attributions
+
+1. Digit Recognition Pixel Values Dataset - by Wasiq Ali on Kaggle
 
 
 
