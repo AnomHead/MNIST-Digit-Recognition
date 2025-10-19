@@ -49,8 +49,9 @@ The model is a multi-class classifier that predicts a digit from 0 to 9 based on
 The model is a simple sequential network with the following layers:
 
 * **Input Layer:** Flattens the 28x28 image into a 784-element vector.
-* **Hidden Layer 1:** Dense layer with 25 neurons and **ReLU** activation.
-* **Hidden Layer 2:** Dense layer with 15 neurons and **ReLU** activation.
+* **Hidden Layer 1:** Dense layer with 10 neurons and **ReLU** activation.
+* **Hidden Layer 2:** Dense layer with 5 neurons and **ReLU** activation.
+* **Hidden Layer 3:** Dense layer with 3 neurons and **ReLU** activation.
 * **Output Layer:** Dense layer with 10 neurons (one for each digit) and **Softmax** activation.
 
 -------------------------------------------------------------------------------------------------------------------------------------
